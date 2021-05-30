@@ -1,0 +1,9 @@
+com.vecon
+com.vecon.controllers
+com.vecon.controllers.exceptions
+com.vecon.feignclients
+com.vecon.models
+com.vecon.models.feignmodels
+com.vecon.repositories
+com.vecon.services
+com.vecon.services.exceptions

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.vecon"},{"l":"com.vecon.controllers"},{"l":"com.vecon.controllers.exceptions"},{"l":"com.vecon.feignclients"},{"l":"com.vecon.models"},{"l":"com.vecon.models.feignmodels"},{"l":"com.vecon.repositories"},{"l":"com.vecon.services"},{"l":"com.vecon.services.exceptions"}];updateSearchResults();
